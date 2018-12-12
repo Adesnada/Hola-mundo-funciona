@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Hola mundo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Coche\NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets\Coche\NewBehaviourScript.cs" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
